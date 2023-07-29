@@ -1,0 +1,3 @@
+([('app',
+   '/Users/rahulmandal/PycharmProjects/PySide6Project/dist/app',
+   'EXECUTABLE')],)
